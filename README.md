@@ -19,4 +19,4 @@ A real-time location tracking application built using Node.js, Express, WebSocke
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ahmadawais666/location-tracker.git
+   git clone https://github.com/ahmadawais666/location_tracker.git
